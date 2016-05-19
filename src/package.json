@@ -1,0 +1,12 @@
+{
+    "name": "netcool-rules",
+    "title": "NetCool Rules Files Syntax for brackets",
+    "homepage": "https://github.com/devinceble/brackets-go",
+    "description": "Provides NetCool Rules Files syntax highlight via a CodeMirror mode for Brackets.",
+    "version": "0.0.1",
+    "author": "German Silva",
+    "license": "GNU",
+    "engines": {
+        "brackets": ">=1.5.0"
+    }
+}
