@@ -1,2 +1,2 @@
 # NetCool-Brackets
-Bracket support for NetCool Development
+[Brackets] support for NetCool Development
